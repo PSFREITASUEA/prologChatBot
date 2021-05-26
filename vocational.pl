@@ -7,8 +7,11 @@ vocational:-
     repeat,
 	format('-- '),
 	readln(Sentence),
-	answersrelatedtosentence(Sentence, Answer),
+	getAnswers(Sentence, Answer),
 	validateAnswer(Answer).
 
 validateAnswer(Answer):-
 	format('> '), format(Answer), nl, fail.
+
+getAnswers(Sentence,Answer):-
+	answersrelatedtosentence(Sentence, Answer),!.
