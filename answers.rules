@@ -6,9 +6,10 @@ answersrelatedtosentence([olá|_], 'Olá, sou o Vocational! Como posso ajudar a 
 
 
 answersrelatedtosentence([nao,sei,qual,area,seguir|_], 'Hum vejamos.\n> Você gosta de ensinar?').
-answersrelatedtosentence([não,sei,qual,area,seguir|_], 'Hum vejamos.\n> Você gosta de ensinar?').
+answersrelatedtosentence([não,sei,qual,área,seguir|_], 'Hum vejamos.\n> Você gosta de ensinar?').
 answersrelatedtosentence([sim,gosto,de,ensinar|_], 'Hum vejamos.\n> Você pode seguir a carreira de licenciatura.Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([nao,gosto,de,ensinar|_], 'Hum vejamos.\n> Você pode seguir a carreira de licenciatura.Me diga a matéria do ensino médio que você mais gostava ').
+answersrelatedtosentence([nao,gosto,de,ensinar|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([não,gosto,de,ensinar|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([nao,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([não,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([qual,curso,devo,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
@@ -40,7 +41,8 @@ answersrelatedtosentence([quero,aplicar|_], 'acho que a UEA/EST é o seu lugar!\
 answersrelatedtosentence([puro|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([conhecimento,puro|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([gosto,do,conhecimento,puro|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
-
+answersrelatedtosentence([gosto,de,estudar|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
+answersrelatedtosentence([gosto,de,ensinar|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 
 
 answersrelatedtosentence([prefiro,a,ufam|_], 'não gosto de você...').
