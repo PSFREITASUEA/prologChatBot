@@ -56,3 +56,8 @@ answersrelatedtosentence([prefiro,a,ufam|_], 'não gosto de você...').
 answersrelatedtosentence([quero, na, ufam|_], 'não gosto de você...').
 
 answersrelatedtosentence([_], 'Desculpe, não consegui entender o que você disse.').
+answersrelatedtosentence([_,_], 'Desculpe, não consegui entender o que você disse.').
+answersrelatedtosentence([_,_,_], 'Desculpe, não consegui entender o que você disse.').
+answersrelatedtosentence([_,_,_,_], 'Desculpe, não consegui entender o que você disse.').
+answersrelatedtosentence([_,_,_,_,_], 'Desculpe, não consegui entender o que você disse.').
+answersrelatedtosentence([_,_,_,_,_,_], 'Desculpe, não consegui entender o que você disse.').
