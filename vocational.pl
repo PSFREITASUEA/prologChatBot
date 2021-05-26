@@ -7,11 +7,22 @@ vocational:-
     repeat,
 	format('-- '),
 	readln(Sentence),
-	getAnswers(Sentence, Answer),
-	validateAnswer(Answer).
+	answer(Sentence).
+
+answer(Sentence):-
+	(
+		Sentence=[tchau|_] ->
+		quit()
+	;
+		getAnswers(Sentence, Answer),
+		validateAnswer(Answer)
+	).
 
 validateAnswer(Answer):-
 	format('> '), format(Answer), nl, fail.
 
 getAnswers(Sentence,Answer):-
 	answersrelatedtosentence(Sentence, Answer),!.
+
+quit():-
+	format('> Tchau, espero vê-lo em breve!'),nl.
