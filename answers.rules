@@ -20,16 +20,18 @@ answersrelatedtosentence([artes|_], 'acho que a UEA/ESAT é o seu lugar!\n> Para
 
 
 answersrelatedtosentence([nao,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([não,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([nao,sei,qual,area,seguir|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([não,sei,qual,area,seguir|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([qual,curso,devo,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([nenhuma|_], 'ai é difícil ajudar kkk').
-
 
 answersrelatedtosentence([aplicado|_], 'acho que a UEA/EST é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([quero,aplicar|_], 'acho que a UEA/EST é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([puro|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([conhecimento,puro|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([gosto,do,conhecimento,puro|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
+
 
 
 answersrelatedtosentence([prefiro,a,ufam|_], 'não gosto de você...').
