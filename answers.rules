@@ -16,11 +16,16 @@ answersrelatedtosentence([nenhuma|_], 'ai é difícil ajudar kkk').
 
 
 answersrelatedtosentence([matematica|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
+answersrelatedtosentence([matemática|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
 answersrelatedtosentence([fisica|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
+answersrelatedtosentence([física|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
 answersrelatedtosentence([quimica|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
+answersrelatedtosentence([química|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
 answersrelatedtosentence([historia|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
+answersrelatedtosentence([história|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([geografia|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([portugues|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
+answersrelatedtosentence([português|_], 'acho que a UEA/ENS é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([biologia|_], 'acho que a UEA/ESA é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([sociologia|_], 'acho que a UEA/ESO é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([filosofia|_], 'acho que a UEA/ESO é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
