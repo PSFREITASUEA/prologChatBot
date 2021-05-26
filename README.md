@@ -5,10 +5,10 @@ Este repositório contém um *chatbot* desenvolvido na linguagem Prolog para a m
 
 #### Integrantes de Equipe
 A equipe é composta por:
-- [Natanael da Mota Figueira][https://github.com/natanaelmota1]
-- [Paulo André Fernandes][https://github.com/Pauloacf]
-- [Paulo Guilherme][https://github.com/guilhoo]
-- [Roberto Alves Neto][https://github.com/robertoalvesneto]
-- [Paulo Sérgio][https://github.com/PSFREITASUEA]
+- [Natanael da Mota Figueira](https://github.com/natanaelmota1])
+- [Paulo André Fernandes](https://github.com/Pauloacf)
+- [Paulo Guilherme](https://github.com/guilhoo)
+- [Roberto Alves Neto](https://github.com/robertoalvesneto)
+- [Paulo Sérgio](https://github.com/PSFREITASUEA)
 
  
