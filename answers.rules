@@ -1,3 +1,4 @@
 answersrelatedtosentence([oi|_], 'Oi, sou o Vocational! Como posso ajudar a escolher seu futuro?').
 answersrelatedtosentence([ola|_], 'Olá, sou o Vocational! Como posso ajudar a escolher seu futuro?').
 answersrelatedtosentence([olá|_], 'Olá, sou o Vocational! Como posso ajudar a escolher seu futuro?').
+answersrelatedtosentence([_], 'Desculpe, não consegui enteder o que você disse.').
