@@ -5,6 +5,15 @@ answersrelatedtosentence([ola|_], 'Olá, sou o Vocational! Como posso ajudar a e
 answersrelatedtosentence([olá|_], 'Olá, sou o Vocational! Como posso ajudar a escolher seu futuro?').
 
 
+answersrelatedtosentence([nao,sei,qual,area,seguir|_], 'Hum vejamos.\n> Você gosta de ensinar?').
+answersrelatedtosentence([não,sei,qual,area,seguir|_], 'Hum vejamos.\n> Você gosta de ensinar?').
+answersrelatedtosentence([sim,gosto,de,ensinar|_], 'Hum vejamos.\n> Você pode seguir a carreira de licenciatura.Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([nao,gosto,de,ensinar|_], 'Hum vejamos.\n> Você pode seguir a carreira de licenciatura.Me diga a matéria do ensino médio que você mais gostava ').
+answersrelatedtosentence([nao,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([não,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([qual,curso,devo,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([nenhuma|_], 'ai é difícil ajudar kkk').
+
 
 answersrelatedtosentence([matematica|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
 answersrelatedtosentence([fisica|_], 'Você quer aplicar o seu conhecimento criando coisas ou gosta de estudar/ensinar o conhecimento puro?').
@@ -16,15 +25,10 @@ answersrelatedtosentence([biologia|_], 'acho que a UEA/ESA é o seu lugar!\n> Pa
 answersrelatedtosentence([sociologia|_], 'acho que a UEA/ESO é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([filosofia|_], 'acho que a UEA/ESO é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([artes|_], 'acho que a UEA/ESAT é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
+answersrelatedtosentence([programacao|_], 'acho que a UEA/EST é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
+answersrelatedtosentence([programação|_], 'acho que a UEA/EST é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 
 
-
-answersrelatedtosentence([nao,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([não,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([nao,sei,qual,area,seguir|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([não,sei,qual,area,seguir|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([qual,curso,devo,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([nenhuma|_], 'ai é difícil ajudar kkk').
 
 answersrelatedtosentence([aplicado|_], 'acho que a UEA/EST é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
 answersrelatedtosentence([quero,aplicar|_], 'acho que a UEA/EST é o seu lugar!\n> Para ver os diferentes cursos acesse:\n>https://www1.uea.edu.br/sobre.php?dest=unidade').
