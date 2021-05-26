@@ -19,7 +19,7 @@ answer(Sentence):-
 	).
 
 validateAnswer(Answer):-
-	format('> '), format(Answer), nl, fail.
+	nl, format('> '), format(Answer), nl, fail.
 
 getAnswers(Sentence,Answer):-
 	answersrelatedtosentence(Sentence, Answer),!.
