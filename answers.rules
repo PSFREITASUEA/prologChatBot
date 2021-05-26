@@ -6,13 +6,9 @@ answersrelatedtosentence([ola|_], 'Olá, sou o Vocational! Como posso ajudar a e
 answersrelatedtosentence([olá|_], 'Olá, sou o Vocational! Como posso ajudar a escolher seu futuro?').
 
 
-answersrelatedtosentence([nao,sei,qual,area,seguir|_], 'Hum vejamos.\n> Você gosta de ensinar?').
-answersrelatedtosentence([não,sei,qual,área,seguir|_], 'Hum vejamos.\n> Você gosta de ensinar?').
-answersrelatedtosentence([sim,gosto,de,ensinar|_], 'Hum vejamos.\n> Você pode seguir a carreira de licenciatura.Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([nao,gosto,de,ensinar|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([não,gosto,de,ensinar|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([nao,sei,qual,area,seguir|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
+answersrelatedtosentence([não,sei,qual,área,seguir|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([nao,sei,qual,curso,escolher|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
-answersrelatedtosentence([sim,gosto,de,ensinar|_], 'Hum vejamos.\n> Você pode seguir a carreira de licenciatura.Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([escolher, um, curso, superior|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([um, curso, superior|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
 answersrelatedtosentence([curso, superior|_], 'Hum vejamos.\n> Me diga a matéria do ensino médio que você mais gostava').
